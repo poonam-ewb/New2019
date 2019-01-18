@@ -1,5 +1,5 @@
 jQuery(document).ready(function($) {
-    alert
+    alert('hello');
     $.ajax({
         url: my_custom_eneque.ajaxurl,
         type: 'get',
